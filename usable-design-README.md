@@ -4,6 +4,8 @@
 
 Una skill para Claude basada en las ideas de *The Design of Everyday Things* (Don Norman, edición revisada de 2013). No es un resumen del libro: convierte sus principios de psicología y diseño en un método de trabajo para que Claude ayude a crear cosas fáciles de descubrir, entender y usar.
 
+[Descarga](usable-design.skill)
+
 ## ¿Para qué sirve?
 
 Ayuda a **diseñar, revisar o arreglar** cualquier cosa con la que la gente interactúa:
